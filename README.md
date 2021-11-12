@@ -1,5 +1,5 @@
 # ZaigoInfoTech
 
-Language - Native Android Kotlin
-Architecture Patterns - MVVM (Model-View-ViewModel)
-Dependency Injection - Dagger Hilt
+- Language - Native Android Kotlin
+- Architecture Patterns - MVVM (Model-View-ViewModel)
+- Dependency Injection - Dagger Hilt
