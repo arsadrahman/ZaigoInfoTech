@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZaigoInfotech</string>
+    <string name="erroremail">Please enter the email address</string>
+    <string name="errorpassword">Please enter the password</string>
+    <string name="door_no">Door No</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
